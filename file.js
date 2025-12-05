@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 const os = require("os");
-console.log( " cpu lengyh " + os.cpus().length);
+console.log( " cpu length " + os.cpus().length);
 
 
 
